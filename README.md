@@ -109,7 +109,7 @@ COVID-19-XRay-Detection/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/COVID-19-XRay-Detection.git
+git clone https://github.com/sushmasree2004/Covid-19-Dectection-.git
 ```
 
 Navigate to the project directory:
